@@ -1,0 +1,9 @@
+# Created at 2023-08-01T17:07:35.031
+
+
+# Created at 2023-08-01T17:07:35.033
+(java:13027): Gdk-CRITICAL **: 17:07:35.028: gdk_x11_display_set_window_scale: assertion 'GDK_IS_X11_DISPLAY (display)' failed
+
+# Created at 2023-08-01T17:07:35.083
+Aborted
+
